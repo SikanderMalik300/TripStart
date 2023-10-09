@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TripStart/static/css/main.0d610132.css",
+    "main.js": "/TripStart/static/js/main.2bd94542.js",
+    "static/media/place3.jpg": "/TripStart/static/media/place3.f4168f97f16c0601752a.jpg",
+    "static/media/contact.jpg": "/TripStart/static/media/contact.2554e2876f50642a3125.jpg",
+    "static/media/hero.jpg": "/TripStart/static/media/hero.a8651303cade5a4fd13d.jpg",
+    "static/media/place4.jpg": "/TripStart/static/media/place4.0e25c7d843cc0be6158c.jpg",
+    "static/media/place2.jpg": "/TripStart/static/media/place2.ff7feff77204afcf4959.jpg",
+    "static/media/place1.jpg": "/TripStart/static/media/place1.4a118d4121865189923a.jpg",
+    "static/media/services.jpg": "/TripStart/static/media/services.22d492679eee1d56c6ec.jpg",
+    "static/media/abouts.jpg": "/TripStart/static/media/abouts.0a2da91060f9e7d4ae53.jpg",
+    "static/media/Card3.jpg": "/TripStart/static/media/Card3.83d966b1271a5a870f37.jpg",
+    "static/media/Card1.avif": "/TripStart/static/media/Card1.fa1b087b1068ada7c618.avif",
+    "static/media/Card2.jpg": "/TripStart/static/media/Card2.48f296607ce95739a7dd.jpg",
+    "static/media/service3.svg": "/TripStart/static/media/service3.8ac8cb901dc001040f6c8c9b0fa9d91d.svg",
+    "static/media/service1.svg": "/TripStart/static/media/service1.dd152643dca5350fc4fb6f4b7c1649e3.svg",
+    "static/media/service2.svg": "/TripStart/static/media/service2.8647365a597e4308127caca2acaff5b1.svg",
+    "static/media/message.svg": "/TripStart/static/media/message.68bb0b2f4e451adb2ac9916a4a3fd962.svg",
+    "index.html": "/TripStart/index.html",
+    "main.0d610132.css.map": "/TripStart/static/css/main.0d610132.css.map",
+    "main.2bd94542.js.map": "/TripStart/static/js/main.2bd94542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d610132.css",
+    "static/js/main.2bd94542.js"
+  ]
+}
