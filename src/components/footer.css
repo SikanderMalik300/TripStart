@@ -1,0 +1,93 @@
+.footer {
+  background-color: black;
+  padding: 4rem 6rem;
+  position: relative;
+}
+
+.footer-head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.intro .footer-logo {
+  color: white;
+  font-size: 2rem;
+  text-align: start;
+}
+
+.footer-logo span {
+  color: dodgerblue;
+}
+.intro p {
+  color: white;
+  text-align: start;
+}
+
+.social-icons {
+  display: flex;
+  color: white;
+}
+
+.social-icon {
+  padding: 10px;
+  color: white;
+  font-size: 2.7rem;
+  border: 3px solid white;
+  border-radius: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.social-icon:hover {
+  background-color: dodgerblue;
+}
+
+.footer-body {
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* Adjust the minmax values as needed */
+  gap: 10px;
+  margin-top: 2rem;
+}
+
+.footer-body div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem; /* Added margin to separate sections */
+}
+
+.footer-body h4 {
+  font-size: 1.3rem;
+  padding: 1rem 0 0.8rem 0;
+}
+
+.footer-body p {
+  cursor: pointer;
+  padding-bottom: 0.4rem;
+  font-size: 1.1rem;
+}
+
+.footer-body p:hover {
+  color: dodgerblue;
+  transition: 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 850px){
+
+    .footer {
+        padding: 2rem 3rem;
+      }
+      
+    .footer-body {
+        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); /* Adjust the minmax values as needed */
+      }
+
+      .footer-head {
+        flex-direction: column;
+      }
+
+      .intro{
+        text-align: center;
+      }
+      
+}
